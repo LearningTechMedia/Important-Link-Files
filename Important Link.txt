@@ -1,33 +1,65 @@
 Autoprefixer CSS online:
 https://autoprefixer.github.io/
 
+*******************************************************
+
 Bootstrap themes, templates, and UI tools to help you start your next project!
 https://startbootstrap.com/
 
+*******************************************************
 
-SASS
+Strict Project using SASS
 
+---------------------------------
+STEP 01:
 https://rubyinstaller.org/downloads/
 then see WITHOUT DEVKIT and dowload from here
 
-https://sass-lang.com/install
+Go https://sass-lang.com/install For Instruction/Documentation (OPTIONAL)
 
-
-
-MY INSTRUCTOR
------------------------------------------------------------
-https://www.ruby-lang.org/en/ https://rubyinstaller.org/
+---------------------------------
+STEP 02:
+run cmd prompt and type the command for SASS INSTALLATION
 
 gem install sass
+---------------------------------
 
-sass --watch C:\Users\farid\OneDrive\Desktop\sass\css\style.scss:C:\Users\farid\OneDrive\Desktop\sass\css\style.css
+STEP 03:
+then enter the location of CSS FOLDER where "style.scss" & "style.scss" located
 
-ctrl c cd
-d: cd folderName
+/* for Example */
 
-width: 4/12 * 100%
+C:\Users\ASUS>D:
 
-https://autoprefixer.github.io/
+D:\>cd 1. Web Design-SSB
 
+D:\1. Web Design-SSB>cd class-10-Strict-Project-using-SASS
+
+D:\1. Web Design-SSB\class-10-Strict-Project-using-SASS>cd css
+
+---------------------------------
+STEP 04:
+then type command for linking between those files
+
+sass --watch style.scss:style.css
+---------------------------------
+
+RESULT:
+SUCCESSFULLY COMPLETED IF THESE FILES ARE GENERATED MENTIONED IN BELOW.
+
+>>> Sass is watching for changes. Press Ctrl-C to stop.
+      write style.css
+      write style.css.map
+*******************************************************
+
+
+
+
+*******************************************************
+
+MY INSTRUCTOR
+----------------------------------------------------
+https://www.ruby-lang.org/en/ 
 https://meyerweb.com/eric/tools/css/reset/
------------------------------------------------------------
+
+*******************************************************
