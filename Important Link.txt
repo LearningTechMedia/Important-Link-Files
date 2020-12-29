@@ -8,6 +8,11 @@ https://startbootstrap.com/
 
 *******************************************************
 
+
+
+
+*******************************************************
+
 Strict Project using SASS
 
 ---------------------------------
@@ -50,6 +55,7 @@ SUCCESSFULLY COMPLETED IF THESE FILES ARE GENERATED MENTIONED IN BELOW.
 >>> Sass is watching for changes. Press Ctrl-C to stop.
       write style.css
       write style.css.map
+      
 *******************************************************
 
 
