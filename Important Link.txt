@@ -6,6 +6,9 @@ https://autoprefixer.github.io/
 Bootstrap themes, templates, and UI tools to help you start your next project!
 https://startbootstrap.com/
 
+Gradient Color Generator:
+https://www.colorzilla.com/
+
 *******************************************************
 
 
