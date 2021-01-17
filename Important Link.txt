@@ -9,6 +9,9 @@ https://startbootstrap.com/
 Gradient Color Generator:
 https://www.colorzilla.com/
 
+Design elements, playground and code snippets for Bootstrap HTML/CSS/JS framework
+https://bootsnipp.com/
+
 *******************************************************
 
 
@@ -65,8 +68,7 @@ SUCCESSFULLY COMPLETED IF THESE FILES ARE GENERATED MENTIONED IN BELOW.
 
 
 *******************************************************
-
-MY INSTRUCTOR
+RECOMMENDED
 ----------------------------------------------------
 https://www.ruby-lang.org/en/ 
 https://meyerweb.com/eric/tools/css/reset/
