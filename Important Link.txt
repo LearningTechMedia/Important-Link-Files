@@ -86,6 +86,7 @@ jQuery Plugin Implementation
 https://nicescroll.areaaperta.com/
 https://michalsnik.github.io/aos/
 https://wowjs.uk/
+https://vincentgarreau.com/particles.js/
 
 
 
