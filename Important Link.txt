@@ -74,3 +74,13 @@ https://www.ruby-lang.org/en/
 https://meyerweb.com/eric/tools/css/reset/
 
 *******************************************************
+
+
+
+
+
+*******************************************************
+jQuery Plugin Implementation
+
+*******************************************************
+https://nicescroll.areaaperta.com/
