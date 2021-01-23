@@ -111,6 +111,15 @@ For Scroll Spy
 </script>
 ----------------------------------------------------------------------------
 
+Slider **
+
+owl carasoul
+slick js
+swiper js
+camera js
+
+
+
 
 
 
