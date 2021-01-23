@@ -91,6 +91,8 @@ https://vincentgarreau.com/particles.js/
 (jQuery plugin store)
 https://www.jqueryscript.net/
 
+http://stickyjs.com/
+
 
 
 
