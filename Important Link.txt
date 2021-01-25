@@ -119,7 +119,12 @@ swiper js
 camera js
 
 
+*******************************************************
+(stanford univrrsity-CS 21 -- Creating and Building Websites)
 
+https://web.stanford.edu/group/csp/cs21/
+
+*******************************************************
 
 
 
