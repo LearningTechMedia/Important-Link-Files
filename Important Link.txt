@@ -125,6 +125,34 @@ camera js
 https://web.stanford.edu/group/csp/cs21/
 
 *******************************************************
+প্রয়োজনীয় কিছু লিংকঃ
+https://devdocs.io/
+https://www.w3schools.com/
+https://developer.mozilla.org/en-US/
+
+codepen.io 
+
+-----------------------------------------
+https://code.visualstudio.com/ 
+ই লিংকে গিয়া।ইন্সটল করবেন ভদ্র ভাবে। এবার কাজ সহজ করতে, মাঝে মাঝে এক কোড ১০০ বার লেখা লাগে, কালার নিলেন কি কালার দেখবার চান,
+এইসব কাজ সহজে করার জন্য এক্টেনশন ইন্সটল করা লাগবে VS Code এ। কোড পুরা লেখাও লাগবে না। দুইটা অক্সেষর লেখবেন, সাজেশন আসবে।
+tab চাপবেন, auto লেখা হয়ে যাবে। ভালো কোড এডীটর ইউজ করলে আরামে কোড করবেন। ভুল ও হবে না। এক্সটেনশন কি কি নিচে দিলাম। 
+ডাইনে বামে না তাকায় ইন্সটল করেন।
+(Recommended)
+1. esbenp.prettier-vscode
+2. formulahendry.auto-close-tag
+3. hex-ci.stylelint-plus
+4. dbaeumer.vscode-eslint
+5. naumovs.color-highlight
+6. DigitalBrainstem.javascript-ejs-support
+Optional
+7. ritwickdey.LiveServer
+8. erikphansen.vscode-toggle-column-selection
+9. file-icons
+-----------------------------------------
+
+
+*******************************************************
 
 
 
